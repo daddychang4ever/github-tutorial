@@ -1,0 +1,22 @@
+baseURL = "https://91chang.cc/"
+languageCode = "en-us"
+title = "GitHub Tutorial Hub"
+theme = "PaperMod"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+
+[params]
+  homeInfoParams = {Title = "GitHub 新手教程", Content = "从零开始学 GitHub，中英双语教程"}
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "教程"
+    url = "/posts/"
+    weight = 2
