@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub on 91Chang - GitHub Tutorial &amp; Developer Resources</title>
+    <link>http://localhost:1313/tags/github/</link>
+    <description>Recent content in GitHub on 91Chang - GitHub Tutorial &amp; Developer Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 入门指南 | GitHub Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/posts/github-basics/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/github-basics/</guid>
+      <description>从零开始学习 GitHub，了解什么是版本控制、如何注册账号、创建第一个仓库。Learn GitHub from scratch - version control, account setup, and your first repository.</description>
+    </item>
+    <item>
+      <title>GitHub 上最值得收藏的免费资源合集 | Best Free Resources on GitHub</title>
+      <link>http://localhost:1313/posts/github-free-resources/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/github-free-resources/</guid>
+      <description>精选GitHub上星标最多、最值得收藏的免费学习资源仓库，涵盖编程、设计、AI等方向。Best free learning resource repositories on GitHub by star count, covering programming, design, and AI.</description>
+    </item>
+    <item>
+      <title>如何配置 SSH Key 连接 GitHub | How to Set Up SSH Key for GitHub</title>
+      <link>http://localhost:1313/posts/ssh-key/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ssh-key/</guid>
+      <description>手把手教你生成 SSH Key 并配置到 GitHub，再也不用每次输入密码。Step-by-step guide to generating an SSH key and adding it to GitHub for password-free access.</description>
+    </item>
+    <item>
+      <title>什么是 Pull Request？| What is a Pull Request?</title>
+      <link>http://localhost:1313/posts/pull-request/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pull-request/</guid>
+      <description>详细介绍 GitHub Pull Request 的概念、创建流程和代码审查最佳实践。A detailed guide to GitHub Pull Requests — what they are, how to create one, and code review best practices.</description>
+    </item>
+  </channel>
+</rss>

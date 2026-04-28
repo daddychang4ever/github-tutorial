@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pull Request on 91Chang - GitHub Tutorial &amp; Developer Resources</title>
+    <link>http://localhost:1313/tags/pull-request/</link>
+    <description>Recent content in Pull Request on 91Chang - GitHub Tutorial &amp; Developer Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pull-request/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是 Pull Request？| What is a Pull Request?</title>
+      <link>http://localhost:1313/posts/pull-request/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pull-request/</guid>
+      <description>详细介绍 GitHub Pull Request 的概念、创建流程和代码审查最佳实践。A detailed guide to GitHub Pull Requests — what they are, how to create one, and code review best practices.</description>
+    </item>
+  </channel>
+</rss>

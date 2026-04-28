@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cool Sites on 91Chang - GitHub Tutorial &amp; Developer Resources</title>
+    <link>http://localhost:1313/tags/cool-sites/</link>
+    <description>Recent content in Cool Sites on 91Chang - GitHub Tutorial &amp; Developer Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cool-sites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>每周趣站推荐 Vol.1 | Weekly Cool Sites Vol.1</title>
+      <link>http://localhost:1313/posts/weekly-sites-vol1/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/weekly-sites-vol1/</guid>
+      <description>每周精选5个有趣、好用、鲜为人知的网站。本期包括AI图片生成、免费字体、在线工具等。Weekly picks of 5 interesting, useful, and lesser-known websites.</description>
+    </item>
+  </channel>
+</rss>

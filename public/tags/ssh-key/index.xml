@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SSH Key on 91Chang - GitHub Tutorial &amp; Developer Resources</title>
+    <link>http://localhost:1313/tags/ssh-key/</link>
+    <description>Recent content in SSH Key on 91Chang - GitHub Tutorial &amp; Developer Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ssh-key/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何配置 SSH Key 连接 GitHub | How to Set Up SSH Key for GitHub</title>
+      <link>http://localhost:1313/posts/ssh-key/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ssh-key/</guid>
+      <description>手把手教你生成 SSH Key 并配置到 GitHub，再也不用每次输入密码。Step-by-step guide to generating an SSH key and adding it to GitHub for password-free access.</description>
+    </item>
+  </channel>
+</rss>

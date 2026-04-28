@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on 91Chang - GitHub Tutorial &amp; Developer Resources</title>
+    <link>http://localhost:1313/tags/git/</link>
+    <description>Recent content in Git on 91Chang - GitHub Tutorial &amp; Developer Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 入门指南 | GitHub Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/posts/github-basics/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/github-basics/</guid>
+      <description>从零开始学习 GitHub，了解什么是版本控制、如何注册账号、创建第一个仓库。Learn GitHub from scratch - version control, account setup, and your first repository.</description>
+    </item>
+    <item>
+      <title>如何安装 Git | How to Install Git</title>
+      <link>http://localhost:1313/posts/install-git/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/install-git/</guid>
+      <description>详细介绍在 Windows、Mac、Linux 系统上安装和配置 Git 的完整步骤。Step-by-step guide to installing and configuring Git on Windows, Mac, and Linux.</description>
+    </item>
+    <item>
+      <title>10个必学的 Git 命令 | 10 Essential Git Commands</title>
+      <link>http://localhost:1313/posts/git-commands/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-commands/</guid>
+      <description>新手必须掌握的10个 Git 命令，附带中英文说明和实际示例。10 essential Git commands every beginner must know, with examples.</description>
+    </item>
+    <item>
+      <title>如何克隆 GitHub 仓库 | How to Clone a GitHub Repository</title>
+      <link>http://localhost:1313/posts/git-clone/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-clone/</guid>
+      <description>详细讲解如何使用 git clone 命令将 GitHub 仓库复制到本地电脑。Learn how to use git clone to copy a GitHub repository to your local computer.</description>
+    </item>
+    <item>
+      <title>如何将代码推送到 GitHub | How to Push Code to GitHub</title>
+      <link>http://localhost:1313/posts/git-push/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-push/</guid>
+      <description>手把手教你将本地代码推送到 GitHub 远程仓库的完整流程。A complete walkthrough of pushing your local code to a GitHub remote repository.</description>
+    </item>
+  </channel>
+</rss>

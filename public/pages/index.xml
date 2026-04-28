@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on 91Chang - GitHub Tutorial &amp; Developer Resources</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on 91Chang - GitHub Tutorial &amp; Developer Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于本站 | About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>&lt;h2 id=&#34;关于-github-tutorial-hub&#34;&gt;关于 GitHub Tutorial Hub&lt;/h2&gt;
+&lt;p&gt;本站致力于为 GitHub 和 Git 新手提供&lt;strong&gt;简单易懂的中英双语教程&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;无论你是完全零基础的初学者，还是想系统补齐知识的开发者，这里都有适合你的内容。&lt;/p&gt;
+&lt;h2 id=&#34;about-github-tutorial-hub&#34;&gt;About GitHub Tutorial Hub&lt;/h2&gt;
+&lt;p&gt;This site is dedicated to providing &lt;strong&gt;simple, bilingual (Chinese &amp;amp; English) tutorials&lt;/strong&gt; for Git and GitHub beginners.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>隐私政策 | Privacy Policy</title>
+      <link>http://localhost:1313/pages/privacy/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/privacy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;最后更新 | Last Updated: April 27, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;中文版&#34;&gt;中文版&lt;/h2&gt;
+&lt;h3 id=&#34;我们收集的信息&#34;&gt;我们收集的信息&lt;/h3&gt;
+&lt;p&gt;本站通过 Google Analytics 收集匿名访问数据，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;页面浏览量&lt;/li&gt;
+&lt;li&gt;访问来源&lt;/li&gt;
+&lt;li&gt;设备类型和浏览器信息&lt;/li&gt;
+&lt;li&gt;大致地理位置（国家/城市级别）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们&lt;strong&gt;不收集&lt;/strong&gt;任何个人身份信息。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

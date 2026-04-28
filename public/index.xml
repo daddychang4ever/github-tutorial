@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>91Chang - GitHub Tutorial &amp; Developer Resources</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 91Chang - GitHub Tutorial &amp; Developer Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年最好用的10个免费开发者工具 | 10 Best Free Developer Tools in 2026</title>
+      <link>http://localhost:1313/posts/free-developer-tools/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/free-developer-tools/</guid>
+      <description>精选2026年最实用的10个免费开发者工具，涵盖代码编辑、API测试、设计、部署等方向。10 best free developer tools in 2026 covering code editing, API testing, design, and deployment.</description>
+    </item>
+    <item>
+      <title>每周趣站推荐 Vol.1 | Weekly Cool Sites Vol.1</title>
+      <link>http://localhost:1313/posts/weekly-sites-vol1/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/weekly-sites-vol1/</guid>
+      <description>每周精选5个有趣、好用、鲜为人知的网站。本期包括AI图片生成、免费字体、在线工具等。Weekly picks of 5 interesting, useful, and lesser-known websites.</description>
+    </item>
+    <item>
+      <title>GitHub 入门指南 | GitHub Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/posts/github-basics/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/github-basics/</guid>
+      <description>从零开始学习 GitHub，了解什么是版本控制、如何注册账号、创建第一个仓库。Learn GitHub from scratch - version control, account setup, and your first repository.</description>
+    </item>
+    <item>
+      <title>GitHub 上最值得收藏的免费资源合集 | Best Free Resources on GitHub</title>
+      <link>http://localhost:1313/posts/github-free-resources/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/github-free-resources/</guid>
+      <description>精选GitHub上星标最多、最值得收藏的免费学习资源仓库，涵盖编程、设计、AI等方向。Best free learning resource repositories on GitHub by star count, covering programming, design, and AI.</description>
+    </item>
+    <item>
+      <title>关于本站 | About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>&lt;h2 id=&#34;关于-github-tutorial-hub&#34;&gt;关于 GitHub Tutorial Hub&lt;/h2&gt;
+&lt;p&gt;本站致力于为 GitHub 和 Git 新手提供&lt;strong&gt;简单易懂的中英双语教程&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;无论你是完全零基础的初学者，还是想系统补齐知识的开发者，这里都有适合你的内容。&lt;/p&gt;
+&lt;h2 id=&#34;about-github-tutorial-hub&#34;&gt;About GitHub Tutorial Hub&lt;/h2&gt;
+&lt;p&gt;This site is dedicated to providing &lt;strong&gt;simple, bilingual (Chinese &amp;amp; English) tutorials&lt;/strong&gt; for Git and GitHub beginners.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何配置 SSH Key 连接 GitHub | How to Set Up SSH Key for GitHub</title>
+      <link>http://localhost:1313/posts/ssh-key/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ssh-key/</guid>
+      <description>手把手教你生成 SSH Key 并配置到 GitHub，再也不用每次输入密码。Step-by-step guide to generating an SSH key and adding it to GitHub for password-free access.</description>
+    </item>
+    <item>
+      <title>隐私政策 | Privacy Policy</title>
+      <link>http://localhost:1313/pages/privacy/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/privacy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;最后更新 | Last Updated: April 27, 2026&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;中文版&#34;&gt;中文版&lt;/h2&gt;
+&lt;h3 id=&#34;我们收集的信息&#34;&gt;我们收集的信息&lt;/h3&gt;
+&lt;p&gt;本站通过 Google Analytics 收集匿名访问数据，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;页面浏览量&lt;/li&gt;
+&lt;li&gt;访问来源&lt;/li&gt;
+&lt;li&gt;设备类型和浏览器信息&lt;/li&gt;
+&lt;li&gt;大致地理位置（国家/城市级别）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们&lt;strong&gt;不收集&lt;/strong&gt;任何个人身份信息。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何安装 Git | How to Install Git</title>
+      <link>http://localhost:1313/posts/install-git/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/install-git/</guid>
+      <description>详细介绍在 Windows、Mac、Linux 系统上安装和配置 Git 的完整步骤。Step-by-step guide to installing and configuring Git on Windows, Mac, and Linux.</description>
+    </item>
+    <item>
+      <title>10个必学的 Git 命令 | 10 Essential Git Commands</title>
+      <link>http://localhost:1313/posts/git-commands/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-commands/</guid>
+      <description>新手必须掌握的10个 Git 命令，附带中英文说明和实际示例。10 essential Git commands every beginner must know, with examples.</description>
+    </item>
+    <item>
+      <title>如何克隆 GitHub 仓库 | How to Clone a GitHub Repository</title>
+      <link>http://localhost:1313/posts/git-clone/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-clone/</guid>
+      <description>详细讲解如何使用 git clone 命令将 GitHub 仓库复制到本地电脑。Learn how to use git clone to copy a GitHub repository to your local computer.</description>
+    </item>
+    <item>
+      <title>如何将代码推送到 GitHub | How to Push Code to GitHub</title>
+      <link>http://localhost:1313/posts/git-push/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-push/</guid>
+      <description>手把手教你将本地代码推送到 GitHub 远程仓库的完整流程。A complete walkthrough of pushing your local code to a GitHub remote repository.</description>
+    </item>
+    <item>
+      <title>什么是 Pull Request？| What is a Pull Request?</title>
+      <link>http://localhost:1313/posts/pull-request/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pull-request/</guid>
+      <description>详细介绍 GitHub Pull Request 的概念、创建流程和代码审查最佳实践。A detailed guide to GitHub Pull Requests — what they are, how to create one, and code review best practices.</description>
+    </item>
+  </channel>
+</rss>
