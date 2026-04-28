@@ -10,6 +10,11 @@ hasCJKLanguage = true
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  GoogleAnalyticsID = ""
 
 [menu]
   [[menu.main]]
