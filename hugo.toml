@@ -1,15 +1,14 @@
 baseURL = "https://91chang.cc/"
 languageCode = "en-us"
-title = "91Chang - GitHub 教程 & 开发者资源"
+title = "91Chang - GitHub Tutorial & Developer Resources"
 theme = "PaperMod"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
 paginate = 10
 
 [params]
-  mode = "profile"
   author = "91Chang"
-  description = "GitHub 新手教程、开发者工具推荐、每周趣站分享，中英双语内容"
+  description = "GitHub tutorials, developer tools, and weekly site recommendations"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -21,27 +20,27 @@ paginate = 10
   [params.profileMode]
     enabled = true
     title = "91Chang"
-    subtitle = "🚀 GitHub 教程 · 🛠 开发工具 · 🌐 每周趣站"
+    subtitle = "GitHub Tutorials · Developer Tools · Weekly Sites"
     imageUrl = "images/avatar.jpg"
     imageWidth = 120
     imageHeight = 120
     imageTitle = "91Chang"
 
     [[params.profileMode.buttons]]
-      name = "📚 教程"
+      name = "Tutorials"
       url = "/posts/"
 
     [[params.profileMode.buttons]]
-      name = "🛠 开发工具"
-      url = "/tags/开发工具/"
+      name = "Dev Tools"
+      url = "/tags/developer-tools/"
 
     [[params.profileMode.buttons]]
-      name = "🌐 趣站推荐"
-      url = "/tags/趣站推荐/"
+      name = "Cool Sites"
+      url = "/tags/cool-sites/"
 
-  [params.homeInfoParams]
-    Title = "GitHub 新手教程"
-    Content = "从零开始学 GitHub，中英双语教程"
+    [[params.profileMode.buttons]]
+      name = "Hot News"
+      url = "https://news.91chang.cc"
 
   [params.socialIcons]
     [[params.socialIcons]]
@@ -53,25 +52,25 @@ paginate = 10
 
 [menu]
   [[menu.main]]
-    name = "首页"
+    name = "Home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "热点新闻"
-    url = "https://news.91chang.cc"
-    weight = 5
   [[menu.main]]
-    name = "教程"
+    name = "Tutorials"
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    name = "开发工具"
-    url = "/tags/开发工具/"
+    name = "Dev Tools"
+    url = "/tags/developer-tools/"
     weight = 3
   [[menu.main]]
-    name = "趣站推荐"
-    url = "/tags/趣站推荐/"
+    name = "Cool Sites"
+    url = "/tags/cool-sites/"
     weight = 4
+  [[menu.main]]
+    name = "Hot News"
+    url = "https://news.91chang.cc"
+    weight = 5
 
 [taxonomies]
   tag = "tags"
