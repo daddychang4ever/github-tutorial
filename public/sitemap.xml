@@ -8,10 +8,37 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai%E5%8A%A9%E6%89%8B/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/cool-sites/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/developer-tools/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/build-your-own-x/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/github%E7%83%AD%E9%97%A8/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/n8n/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/n8n-guide/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/openclaw/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/openclaw-guide/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -20,10 +47,19 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/weekly-sites-vol1/</loc>
@@ -39,6 +75,9 @@
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/beginner/</loc>
@@ -69,12 +108,6 @@
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/about/</loc>
-    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ssh-key/</loc>

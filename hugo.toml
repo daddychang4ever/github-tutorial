@@ -42,13 +42,13 @@ paginate = 10
       name = "Hot News"
       url = "https://news.91chang.cc"
 
-  [params.socialIcons]
-    [[params.socialIcons]]
-      name = "github"
-      url = "https://github.com/daddychang4ever"
-    [[params.socialIcons]]
-      name = "rss"
-      url = "/index.xml"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/daddychang4ever"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
 
 [menu]
   [[menu.main]]

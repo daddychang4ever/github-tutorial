@@ -9,6 +9,27 @@
     <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI工具</title>
+      <link>http://localhost:1313/tags/ai%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI助手</title>
+      <link>http://localhost:1313/tags/ai%E5%8A%A9%E6%89%8B/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai%E5%8A%A9%E6%89%8B/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cool Sites</title>
       <link>http://localhost:1313/tags/cool-sites/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
@@ -23,6 +44,34 @@
       <description></description>
     </item>
     <item>
+      <title>GitHub热门</title>
+      <link>http://localhost:1313/tags/github%E7%83%AD%E9%97%A8/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/github%E7%83%AD%E9%97%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N8n</title>
+      <link>http://localhost:1313/tags/n8n/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/n8n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenClaw</title>
+      <link>http://localhost:1313/tags/openclaw/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/openclaw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>编程学习</title>
+      <link>http://localhost:1313/tags/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>工具</title>
       <link>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
@@ -30,10 +79,24 @@
       <description></description>
     </item>
     <item>
+      <title>教程</title>
+      <link>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>开发工具</title>
       <link>http://localhost:1313/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>开源</title>
+      <link>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</guid>
       <description></description>
     </item>
     <item>
@@ -62,6 +125,13 @@
       <link>http://localhost:1313/tags/%E6%95%88%E7%8E%87/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E6%95%88%E7%8E%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自动化</title>
+      <link>http://localhost:1313/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
@@ -104,20 +174,6 @@
       <link>http://localhost:1313/tags/%E5%AE%89%E5%85%A8/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E5%AE%89%E5%85%A8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>教程</title>
-      <link>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>开源</title>
-      <link>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</guid>
       <description></description>
     </item>
     <item>
