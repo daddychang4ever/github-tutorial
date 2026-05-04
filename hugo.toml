@@ -1,14 +1,15 @@
 baseURL = "https://91chang.cc/"
 languageCode = "en-us"
-title = "91Chang - GitHub Tutorial & Developer Resources"
+title = "91Chang - GitHub 教程 & 开发者资源"
 theme = "PaperMod"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
 paginate = 10
 
 [params]
+  mode = "profile"
   author = "91Chang"
-  description = "GitHub tutorials, developer tools, and weekly site recommendations"
+  description = "GitHub 新手教程、开发者工具推荐、每周趣站分享，中英双语内容"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -20,48 +21,56 @@ paginate = 10
   [params.profileMode]
     enabled = true
     title = "91Chang"
-    subtitle = "GitHub Tutorials · Developer Tools · Weekly Sites"
+    subtitle = "🚀 GitHub 教程 · 🛠 开发工具 · 🌐 每周趣站"
     imageUrl = "images/avatar.jpg"
     imageWidth = 120
     imageHeight = 120
     imageTitle = "91Chang"
 
     [[params.profileMode.buttons]]
-      name = "Tutorials"
+      name = "📚 教程"
       url = "/posts/"
 
     [[params.profileMode.buttons]]
-      name = "Dev Tools"
-      url = "/tags/developer-tools/"
+      name = "🛠 开发工具"
+      url = "/tags/开发工具/"
 
     [[params.profileMode.buttons]]
-      name = "Cool Sites"
-      url = "/tags/cool-sites/"
+      name = "🌐 趣站推荐"
+      url = "/tags/趣站推荐/"
 
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/daddychang4ever"
+  [params.homeInfoParams]
+    Title = "GitHub 新手教程"
+    Content = "从零开始学 GitHub，中英双语教程"
 
-[[params.socialIcons]]
-  name = "rss"
-  url = "/index.xml"
+  [params.socialIcons]
+    [[params.socialIcons]]
+      name = "github"
+      url = "https://github.com/daddychang4ever"
+    [[params.socialIcons]]
+      name = "rss"
+      url = "/index.xml"
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "首页"
     url = "/"
     weight = 1
+[[menu.main]]
+    name = "热点新闻"
+    url = "https://news.91chang.cc"
+    weight = 5
   [[menu.main]]
-    name = "Tutorials"
+    name = "教程"
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    name = "Dev Tools"
-    url = "/tags/developer-tools/"
+    name = "开发工具"
+    url = "/tags/开发工具/"
     weight = 3
   [[menu.main]]
-    name = "Cool Sites"
-    url = "/tags/cool-sites/"
+    name = "趣站推荐"
+    url = "/tags/趣站推荐/"
     weight = 4
 
 [taxonomies]
