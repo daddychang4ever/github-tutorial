@@ -1,0 +1,123 @@
+:root {
+  --cyber-yellow: #FFE600;
+  --cyber-pink: #FF2D6B;
+  --cyber-blue: #00F0FF;
+  --cyber-bg: #0A0A0F;
+  --cyber-surface: #12121A;
+  --cyber-border: #2A2A3A;
+}
+
+body {
+  background-color: var(--cyber-bg) !important;
+  background-image:
+    linear-gradient(rgba(0,240,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,240,255,0.03) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+.profile {
+  padding: 3rem 1rem;
+}
+
+.profile img {
+  border: 2px solid var(--cyber-blue);
+  box-shadow: 0 0 20px var(--cyber-blue), 0 0 40px rgba(0,240,255,0.2);
+  border-radius: 4px !important;
+}
+
+.profile h1 {
+  color: var(--cyber-yellow) !important;
+  font-size: 2.5rem !important;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px var(--cyber-yellow), 0 0 20px rgba(255,230,0,0.3);
+}
+
+.profile .profile-subtitle {
+  color: var(--cyber-blue) !important;
+  letter-spacing: 0.1em;
+  font-size: 0.9rem;
+}
+
+.profile .social-icons a {
+  color: var(--cyber-pink) !important;
+  font-size: 1.4rem;
+}
+
+.profile .buttons a {
+  background: transparent !important;
+  border: 1px solid var(--cyber-blue) !important;
+  color: var(--cyber-blue) !important;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  padding: 0.5rem 1.2rem;
+  position: relative;
+  transition: all 0.2s;
+  clip-path: polygon(8px 0%, 100% 0%, calc(100% - 8px) 100%, 0% 100%);
+}
+
+.profile .buttons a:hover {
+  background: rgba(0,240,255,0.1) !important;
+  color: var(--cyber-yellow) !important;
+  border-color: var(--cyber-yellow) !important;
+  box-shadow: 0 0 15px rgba(255,230,0,0.3);
+}
+
+.profile .buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+#top-link, header, .header {
+  background: rgba(10,10,15,0.95) !important;
+  border-bottom: 1px solid var(--cyber-border);
+}
+
+nav a, .nav a {
+  color: var(--cyber-blue) !important;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+nav a:hover {
+  color: var(--cyber-yellow) !important;
+}
+
+.logo a {
+  color: var(--cyber-yellow) !important;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+}
+
+.post-entry {
+  background: var(--cyber-surface) !important;
+  border: 1px solid var(--cyber-border) !important;
+  border-left: 2px solid var(--cyber-pink) !important;
+  transition: all 0.2s;
+}
+
+.post-entry:hover {
+  border-left-color: var(--cyber-yellow) !important;
+  box-shadow: -4px 0 15px rgba(255,230,0,0.2);
+  transform: translateX(4px);
+}
+
+.post-entry .entry-header h2 {
+  color: var(--cyber-blue) !important;
+}
+
+.post-entry:hover .entry-header h2 {
+  color: var(--cyber-yellow) !important;
+}
+
+footer {
+  border-top: 1px solid var(--cyber-border);
+  color: rgba(0,240,255,0.4) !important;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
